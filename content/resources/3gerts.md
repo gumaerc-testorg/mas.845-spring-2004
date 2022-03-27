@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: dff1936f-cc40-17d5-ec3c-efd4a0f17d0d
 resourcetype: Document
 title: 3gerts.pdf
 uid: dca0e997-fd5e-4713-9672-cd2b845e80c1

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: dff1936f-cc40-17d5-ec3c-efd4a0f17d0d
 resourcetype: Document
 title: 1lee.pdf
 uid: 0507fef4-ae0b-ae19-f97f-9dcf8385a69b

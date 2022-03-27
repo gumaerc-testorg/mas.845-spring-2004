@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f2b22bdc-47e1-6855-517e-74b88ff71f9d
 resourcetype: Document
 title: narrativeassign.pdf
 uid: 3dd02587-1ce5-47e5-c1e1-c60e131b64a4

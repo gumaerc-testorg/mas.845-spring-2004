@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f2b22bdc-47e1-6855-517e-74b88ff71f9d
 resourcetype: Document
 title: wordscenassign.pdf
 uid: b6a35c18-0c42-3a80-a174-3eabc7e55504

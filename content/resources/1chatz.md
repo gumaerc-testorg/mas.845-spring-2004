@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: dff1936f-cc40-17d5-ec3c-efd4a0f17d0d
 resourcetype: Document
 title: 1chatz.pdf
 uid: ba076908-b8af-8a60-807b-40838830ccba

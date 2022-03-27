@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: dff1936f-cc40-17d5-ec3c-efd4a0f17d0d
 resourcetype: Document
 title: 1amory.pdf
 uid: 09b78e01-3f97-ee96-a31a-a2bc2be552a2

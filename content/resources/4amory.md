@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: dff1936f-cc40-17d5-ec3c-efd4a0f17d0d
 resourcetype: Other
 title: 4amory.swf
 uid: 5b5a55ec-b4e0-0b0b-c284-48b9a7639fe8

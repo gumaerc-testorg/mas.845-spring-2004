@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: dff1936f-cc40-17d5-ec3c-efd4a0f17d0d
 resourcetype: Document
 title: assn2temp.pdf
 uid: 009fed0d-f64a-b6f2-2f31-6d083f283f7c
