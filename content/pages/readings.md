@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides bibliographic citations of assigned and recommended
+  readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Readings
 uid: 7feb6a0c-e4db-37e0-b34f-10f2899da9e4
 ---
 
-Readings ([PDF]({{< baseurl >}}/resources/readings))
+Readings ({{% resource_link 729f8a3e-3470-9d46-f39b-c3e354c36b9f "PDF" %}})
 
 Books
 -----

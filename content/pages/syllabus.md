@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course instructors, meeting
+  times, guest lecturers, and requirements.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
