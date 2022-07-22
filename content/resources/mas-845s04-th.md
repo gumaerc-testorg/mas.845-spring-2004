@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: A black and white photo of movie hall with rows of wodden chairs.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: mas-845s04-th.jpg
 uid: 704abc7b-05cf-6233-ed1a-b499411b754f
 ---
 New image Upload
-

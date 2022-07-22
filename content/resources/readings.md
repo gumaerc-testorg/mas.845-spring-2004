@@ -5,6 +5,7 @@ file: /courses/mas-845-special-topics-in-cinematic-storytelling-spring-2004/729f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: readings.pdf
 uid: 729f8a3e-3470-9d46-f39b-c3e354c36b9f
 ---
 Bibliographic citations of assigned and recommended readings.
-

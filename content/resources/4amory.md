@@ -5,6 +5,7 @@ file: /courses/mas-845-special-topics-in-cinematic-storytelling-spring-2004/5b5a
 file_type: application/x-shockwave-flash
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 4amory.swf
 uid: 5b5a55ec-b4e0-0b0b-c284-48b9a7639fe8
 ---
 Shockwave flash presentation.
-
