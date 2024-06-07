@@ -2,6 +2,7 @@
 content_type: resource
 description: Shockwave flash presentation.
 file: /courses/mas-845-special-topics-in-cinematic-storytelling-spring-2004/5b5a55ecb4e00b0bc28448b9a7639fe8_4amory.swf
+file_size: 202804
 file_type: application/x-shockwave-flash
 learning_resource_types:
 - Projects
