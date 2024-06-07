@@ -2,6 +2,7 @@
 content_type: resource
 description: A story.
 file: /courses/mas-845-special-topics-in-cinematic-storytelling-spring-2004/4c5097d258270c1e3662fcaa6be5e950_1liapi.pdf
+file_size: 200356
 file_type: application/pdf
 learning_resource_types:
 - Projects
