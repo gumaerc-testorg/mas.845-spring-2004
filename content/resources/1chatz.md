@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A story.
-file: /courses/mas-845-special-topics-in-cinematic-storytelling-spring-2004/ba076908b8af8a60807b40838830ccba_1chatz.pdf
+file: /ol-ocw-studio-app/courses/mas-845-special-topics-in-cinematic-storytelling-spring-2004/ba076908b8af8a60807b40838830ccba_1chatz.pdf
 file_size: 74060
 file_type: application/pdf
 learning_resource_types:
