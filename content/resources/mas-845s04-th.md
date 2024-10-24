@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/mas-845-special-topics-in-cinematic-storytelling-spring-2004/704abc7b05cf6233ed1ab499411b754f_mas-845s04-th.jpg
+file: /ol-ocw-studio-app/courses/mas-845-special-topics-in-cinematic-storytelling-spring-2004/704abc7b05cf6233ed1ab499411b754f_mas-845s04-th.jpg
 file_size: 2621
 file_type: image/jpeg
 image_metadata:

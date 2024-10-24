@@ -4,7 +4,7 @@ description: The focus of this assignment is to develop a story set and a repres
   that can be used to explore different ways of sequencing the set. Later we combine
   the sets and explore what types of representation might work across all of them.
   Students work in small teams.
-file: /courses/mas-845-special-topics-in-cinematic-storytelling-spring-2004/b6a35c180c423a80a1743eabc7e55504_wordscenassign.pdf
+file: /ol-ocw-studio-app/courses/mas-845-special-topics-in-cinematic-storytelling-spring-2004/b6a35c180c423a80a1743eabc7e55504_wordscenassign.pdf
 file_size: 44916
 file_type: application/pdf
 learning_resource_types:
