@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment 2 presentation by Nicholas Senske, Marianathi Liapi and Panagiotis
   Chatzitsakyris.
-file: /ol-ocw-studio-app/courses/mas-845-special-topics-in-cinematic-storytelling-spring-2004/009fed0df64ab6f22f316d083f283f7c_assn2temp.pdf
+file: /courses/mas-845-special-topics-in-cinematic-storytelling-spring-2004/009fed0df64ab6f22f316d083f283f7c_assn2temp.pdf
 file_size: 17254
 file_type: application/pdf
 learning_resource_types:
