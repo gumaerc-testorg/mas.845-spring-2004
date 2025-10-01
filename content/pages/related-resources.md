@@ -9,14 +9,14 @@ uid: d491a377-381d-f39e-e562-1fcec1ae2519
 
 The following are a series of links to Web sites related to topics in the class.
 
-[Interactive Cinema Weblog](http://cinema.usc.edu/programs/interactive/)
+{{% resource_link "a2577f6d-1337-43fb-abb8-c69f2d06cb46" "Interactive Cinema Weblog" %}}
 
-[Digital Dialogs](http://digitaldialogues.blogs.com/)
+{{% resource_link "90ec21ff-3c78-44b6-b99e-54a8959eb218" "Digital Dialogs" %}}
 
-[Roballet](http://web.mit.edu/newsoffice/2003/mediadance.html)
+{{% resource_link "375485a9-676e-431b-b8ce-6ef063e25db9" "Roballet" %}}
 
-[Jerome B. Wiesner](http://ic.media.mit.edu/projects/JBW)
+{{% resource_link "29f464eb-7313-45b9-998a-9673f3357ffe" "Jerome B. Wiesner" %}}
 
-[Openmind Commonsense](https://www.media.mit.edu/projects/open-mind-common-sense/overview/)
+{{% resource_link "489177d3-5c41-4c93-b081-e8a1c095e5f0" "Openmind Commonsense" %}}
 
-[Bruce Holland](http://www.shortshortshort.com/)
+{{% resource_link "ae8a46a8-81b1-4bd5-affc-17659dffb051" "Bruce Holland" %}}
