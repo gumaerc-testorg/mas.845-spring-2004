@@ -20,7 +20,7 @@ Marianathi Liapi ({{% resource_link 4c5097d2-5827-0c1e-3662-fcaa6be5e950 "PDF" %
 Assignment 2
 ------------
 
-Nicholas Senske, Marianathi Liapi, Panagiotis Chatzitsakyris ({{% resource_link "b9886138-ffab-484f-ac60-69db624aee7e" "MP4 - 5MB" %}})
+Nicholas Senske, Marianathi Liapi, Panagiotis Chatzitsakyris ([MP4 - 5MB](https://archive.org/download/MITMAS.845S04/ocw-mas.845-2SLC-220k.mp4))
 
 Assignment 3
 ------------
@@ -31,5 +31,5 @@ Dan Gertsacov ({{% resource_link dca0e997-fd5e-4713-9672-cd2b845e80c1 "PDF" %}})
 Assignment 4
 ------------
 
-Carrie Bodle ({{% resource_link "a72e5ca4-06b4-4105-b216-94d190cbd56b" "MP4 - 4MB" %}})  
-Jonathan Amory ({{% resource_link "856db90e-8ccc-4cb9-a24f-7d1760feed92" "SWF" %}})
+Carrie Bodle ([MP4 - 4MB](https://archive.org/download/MITMAS.845S04/ocw-mas.845-student-video-project-220k.mp4))  
+Jonathan Amory ([SWF](http://www.archive.org/download/MITMAS.845S04/4amory.swf))
